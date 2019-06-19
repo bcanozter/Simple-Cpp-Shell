@@ -1,6 +1,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Compiling](#compiling)
 * [Preview](#preview)
 * [Author](#author)
 
@@ -22,9 +23,18 @@
 Project is created with:
 * XCode version: 10.2.1
 
+## Compiling
+
+To compile this software you must use a gcc terminal.
+1. Open the bash terminal
+2. Change the directory to where the make file is.
+3. use g++ --std=c++11 main.cpp
+4. run the outfile.
+
+
 ## Preview
 
-<img src="https://i.imgur.com/IIOcyZj.png" width="300">
+<img src="https://i.imgur.com/IIOcyZj.png">
 
 
 ## Author
