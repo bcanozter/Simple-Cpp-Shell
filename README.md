@@ -21,10 +21,8 @@ Project is created with:
 
 To compile this software you must use a gcc terminal.
 1. Open the bash terminal
-2. Change the directory to where the make file is.
-3. use g++ --std=c++11 main.cpp
-4. run the outfile.
-
+2. To compile, $ g++ --std=c++11 -o run.out main.cpp
+3. To run, ./run.out
 
 ## Preview
 
