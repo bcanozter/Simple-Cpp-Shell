@@ -11,13 +11,7 @@
  "!!" will trigger the history command and will show a list of commands that have been entered.
  In order to run a command from the list, user must type "!1" where the number is the index from the history list.
  
- Supported Commands;
-                    ps
-                    cal
-                    date
-                    who
-                    top
-                    ls
+ Supported commands are ps, cal, date, who, top and ls.
 	
 ## Technologies
 Project is created with:
