@@ -8,9 +8,9 @@
  This software is designed to serve as a C++ shell interface that accepts user commands, then execute each command in a separate process.In addition, it provides a history feature that allows the user to access the most recently entered commands.
 
  "!!" will trigger the history command and will show a list of commands that have been entered.
- In order to run a command from the list, user must type "!<number>" where the number is the index from the history list.
+ In order to run a command from the list, user must type "!1" where the number is the index from the history list.
  
- Command Examples;
+ Supported Commands;
                     ps
                     cal
                     date
@@ -24,7 +24,7 @@ Project is created with:
 
 ## Preview
 
-<img src="hhttps://i.imgur.com/IIOcyZj.png" width="300">
+<img src="https://i.imgur.com/IIOcyZj.png" width="300">
 
 
 ## Author
